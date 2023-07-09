@@ -15,7 +15,7 @@
 int main(void)
 {
 
-	/specjalny komentarz
+	//specjalny komentarz
 	//Dierect Pin Ports
 	DDRB =(1<<PB5);
 	DDRC = (1<<PC0)|(1<<PC1)|(1<<PC2)|(1<<PC3);
