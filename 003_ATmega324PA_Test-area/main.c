@@ -28,7 +28,8 @@ int main(void)
 		PORTB ^= (PB5);
 		_delay_ms(1000);
 		PORTC ^=(0X0F); //ustawienie portu w stan wysoki
-//coœ tam
+//coœ tam 2
+
 	}
 }
 
